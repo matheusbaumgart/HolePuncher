@@ -1,0 +1,14 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+attrs==24.3.0
+Automat==24.8.1
+constantly==23.10.4
+future @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+hyperlink==21.0.0
+idna==3.10
+incremental==24.7.2
+macholib @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+six @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+tomli==2.2.1
+Twisted==24.11.0
+typing_extensions==4.12.2
+zope.interface==7.2

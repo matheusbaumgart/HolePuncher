@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "terminal.ansiRed": "#EB7C6C",
+    "terminal.ansiBlue": "#EB7C6C",
+    "terminal.ansiBrightGreen": "#777C85",
+    "terminal.ansiCyan": "#8FD994"
+  }
+}
